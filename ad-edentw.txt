@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: muYfrtAM1oyBkkVH9nV8WA
+! Checksum: SOLaoCPUh/zFbfOlpYCtkQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202008251600
-! Last Modified: 2020年08月25日 16:00
+! Version: 202008251700
+! Last Modified: 2020年08月25日 17:00
 ! Homepage: https://adf.minggo.eu.org
 !
 !本规则合并自乘风视频广告过滤规则、Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
@@ -779,7 +779,7 @@ novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
 kupi.cz#$#abort-on-property-read atob; abort-on-property-read advFlag; abort-on-property-write advFlag
 super.cz#$#abort-on-property-read atob
 sport.cz#$#abort-on-property-read atob
-novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-on-property-read prdel
+novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-on-property-read arschmitoeren
 novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
 novinky.cz,super.cz,sport.cz,kupi.cz###main_body_top[data-impressionurl]
