@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VfLX/wCGlfNP+8E39sdpfg
+! Checksum: cH3+K2ib4espbal4Tsbfpw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202008251400
-! Last Modified: 2020年08月25日 14:00
+! Version: 202008251530
+! Last Modified: 2020年08月25日 15:30
 ! Homepage: https://adf.minggo.eu.org
 !
 !本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
@@ -33587,6 +33587,7 @@ _mongo_stats/
 ||d.ghostery.com^
 ||da.virginmedia.com^
 ||dabs.com/AbacusTest/clientinfo_bk.gif
+||dailymail.co.uk/geo/
 ||dailymail.co.uk/rta2/
 ||dailymail.co.uk/tracking/
 ||dailymotion.com/logger/
@@ -34441,6 +34442,7 @@ _mongo_stats/
 ||newsinc.com/players/report.xml?$image
 ||newstatesman.com/js/NewStatesmanSDC.js
 ||newswire.ca/rt.gif?
+||newzit.com/setABframe.html
 ||nexon.net/log/
 ||nexon.net/tagging/
 ||next.co.uk/log.php
