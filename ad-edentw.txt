@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: p9kmRoijXq1X9hKmSC+yIQ
+! Checksum: muYfrtAM1oyBkkVH9nV8WA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202008250730
-! Last Modified: 2020年08月25日 07:30
+! Version: 202008251600
+! Last Modified: 2020年08月25日 16:00
 ! Homepage: https://adf.minggo.eu.org
 !
 !本规则合并自乘风视频广告过滤规则、Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
@@ -598,7 +598,7 @@ iprima.cz##[class$="_fcid"], [data-mashiatus]
 iprima.cz##div[data-d-area]
 iprima.cz##[data-masparabus], [class$="_bubuzela"]
 iprima.cz##[class*="sas"]
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##icec-himney, blackc-himney
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##ic-ehole
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##.movingAd
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[href*="&gbpp="]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[href*="&pattern="]
